@@ -9,7 +9,7 @@ class AddNoteButton extends StatelessWidget {
     return FloatingActionButton(
       onPressed: () => showDialog(
         context: context,
-        builder: (_) => const AddNoteDialog(),
+        builder: (_) => AddNoteDialog(),
       ),
       tooltip: 'Adicionar Nota',
       child: const Icon(Icons.add),

@@ -7,85 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:964755681365:android:a83fab1b9f9d1ffecba4dc",
-        "android_client_info": {
-          "package_name": "com.example.notes_bonfire"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyASAmAsEPxG_0c-O3ZR9IrUBtrqObYtXUg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:964755681365:android:ce5eab5b449da1cfcba4dc",
-        "android_client_info": {
-          "package_name": "com.example.notes_fire"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyASAmAsEPxG_0c-O3ZR9IrUBtrqObYtXUg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:964755681365:android:aca83f2eaacf82c8cba4dc",
-        "android_client_info": {
-          "package_name": "com.exmaple.notes_fire"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyASAmAsEPxG_0c-O3ZR9IrUBtrqObYtXUg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:964755681365:android:27d1843cd3b4bd57cba4dc",
         "android_client_info": {
           "package_name": "io.github.ninjabitroom.notes_bonfire"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyASAmAsEPxG_0c-O3ZR9IrUBtrqObYtXUg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:964755681365:android:a79fdb8825174fbccba4dc",
-        "android_client_info": {
-          "package_name": "io.ninjabitroom.notes_bonfire"
         }
       },
       "oauth_client": [],
