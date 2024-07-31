@@ -13,6 +13,9 @@ class NotesListView extends StatefulWidget {
 class _NotesListViewState extends State<NotesListView> {
   @override
   Widget build(BuildContext context) {
+    if (widget.notes.isEmpty) {
+      return const Center(child: Text('Você possui nenhuma anotação ainda...'));
+    }
     return ListView.builder(
       padding: const EdgeInsets.all(12),
       itemCount: widget.notes.length,
