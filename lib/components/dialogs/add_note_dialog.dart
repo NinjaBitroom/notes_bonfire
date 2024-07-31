@@ -17,6 +17,7 @@ class AddNoteDialog extends StatelessWidget {
         title: const Text('Nova Anotação'),
         children: [
           TextField(
+            textInputAction: TextInputAction.done,
             controller: _titleController,
             decoration: const InputDecoration(
               labelText: 'Título da Nota',
@@ -24,6 +25,7 @@ class AddNoteDialog extends StatelessWidget {
             autofocus: true,
           ),
           TextField(
+            textInputAction: TextInputAction.done,
             controller: _contentController,
             minLines: 1,
             maxLines: 3,
